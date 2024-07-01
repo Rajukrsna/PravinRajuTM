@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "hoster": "Github",
+      "name": "AI Learn App",
+      "demo_url": "https://partyrock.aws/u/PravinRajuTM/ouCl-MDOI/DIYMindLearning-App",
+      "hoster_url": "https://partyrock.aws/u/PravinRajuTM/ouCl-MDOI/DIYMindLearning-App",
+      "thumbnail_url": "assets/img/aws.png"
+    },
+    {
+      "id": 2,
+      "hoster": "Github",
+      "name": "PeaceLearner AI",
+      "demo_url": "https://ai-learn-sigma.vercel.app/",
+      "hoster_url": "https://github.com/Rajukrsna/AILearn",
+      "thumbnail_url": "assets/img/LEARN.png"
+    },
+    {
+      "id": 3,
+      "hoster": "Github",
+      "name": "MarkDown Previewer Using React",
+      "demo_url": "https://markdown-previewer-self.vercel.app/",
+      "hoster_url": "https://github.com/Rajukrsna/Markdown-previewer",
+      "thumbnail_url": "assets/img/MARK.png"
+    },
+    {
+      "id": 4,
+      "name": "AI Chatley app Using React Native",
+      "hoster": "Github",
+      "demo_url": "https://github.com/Rajukrsna/Ayurvedhic-Chatbot-Aravind-Raju",
+      "hoster_url": "https://github.com/Rajukrsna/Ayurvedhic-Chatbot-Aravind-Raju",
+      "thumbnail_url": "assets/img/aibot.png"
+    }
+    
+  ]
