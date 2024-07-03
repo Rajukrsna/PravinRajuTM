@@ -1,0 +1,88 @@
+[
+    {
+      "id": 1,
+      "hoster": "GeeksForGeeks",
+      "name": "Shiny R Dashboard",
+    "read_url":"https://www.geeksforgeeks.org/shiny-r-dashboard/",
+    
+      "thumbnail_url": "assets/img/article/shiny.webp"
+    },
+    {
+      "id": 2,
+      "hoster": "GeeksForGeeks",
+      "name": "How to Join two schemas in Mongoose",
+      "read_url": "https://www.geeksforgeeks.org/how-to-join-two-schemas-in-mongoose/",
+     
+      "thumbnail_url": "assets/img/article/mongoose.png"
+    },
+    {
+      "id": 3,
+      "hoster": "GeeksForGeeks",
+      "name": "How to fit a sinusoidal Term to data in R",
+      "read_url": "https://www.geeksforgeeks.org/how-to-fit-a-sinusoidal-term-to-data-in-r/",
+     
+      "thumbnail_url": "assets/img/article/sine.png"
+    },
+    {
+      "id": 4,
+      "name": "Working with R Scripts in Power BI",
+      "hoster": "GeeksForGeeks",
+      "read_url": "https://www.geeksforgeeks.org/working-with-r-scripts-in-power-bi-desktop/",
+      
+      "thumbnail_url": "assets/img/article/power.png"
+    }
+    ,
+    {
+      "id": 5,
+      "name": "MongoDB Aggregation $out",
+      "hoster": "GeeksForGeeks",
+      "read_url": "https://www.geeksforgeeks.org/mongodb-aggregation-out/",
+      
+      "thumbnail_url": "assets/img/article/mongodb.png"
+    }
+    ,
+    {
+      "id": 6,
+      "name": "EJS Abbreviations, Meanings and Definitons",
+      "hoster": "GeeksForGeeks",
+      "read_url": "https://www.geeksforgeeks.org/ejs-abbreviations-full-forms-meanings-and-definitions/",
+      
+      "thumbnail_url": "assets/img/article/ejs.jpg"
+    }
+    ,
+    {
+      "id": 7,
+      "name": "<%= Tag in EJS(Embedded JavaScript)",
+      "hoster": "GeeksForGeeks",
+      "read_url": "https://www.geeksforgeeks.org/what-does/",
+      
+      "thumbnail_url": "assets/img/article/ejs2.jpg"
+    }
+    ,
+    {
+      "id": 8,
+      "name": "How to check whether the date is in the proper format using Regex",
+      "hoster": "GeeksForGeeks",
+      "read_url": "https://www.geeksforgeeks.org/check-whether-the-date-is-in-the-proper-format-or-not-using-regex/",
+      
+      "thumbnail_url": "assets/img/article/regex.png"
+    }
+    ,
+    {
+      "id": 9,
+      "name": "How to Replace First Occurance of String In Java",
+      "hoster": "GeeksForGeeks",
+      "read_url": "https://www.geeksforgeeks.org/how-to-replace-the-first-occurrence-of-a-string-using-regex/",
+      "thumbnail_url": "assets/img/article/regex1.png"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "How to Replace all Occurings of a Sting Using Regex in Java",
+      "hoster": "GeeksForGeeks",
+      "read_url": "https://www.geeksforgeeks.org/how-to-replace-all-occurings-of-string-using-regex-in-java/",
+      
+      "thumbnail_url": "assets/img/article/regex3.png"
+    }
+    
+  ]

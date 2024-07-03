@@ -21,9 +21,31 @@ const renderProjects = async () => {
     console.log("projects error ===>>>", error);
   }
 };
+const publications = document.querySelector("#Publications .contents");
+const renderPublications = async () => {
+  try {
+    const data1 = await fetch("data/articles.json");
+    const response1 = await data1.json();
+    let item1 = "";
+    for (let i = 0; i < response1.length; i++) {
+      item1 += `
+          <div class="product">
+           <img src=${response1[i].thumbnail_url} />
+           <div class="text">
+            <h3>${response1[i].name}</h3>
+            <a target="blank" href=${response1[i].read_url} >Read It ${response1[i].hoster}</a>
+            
+           </div>
+          </div>`;
+    }
+    publications.innerHTML = item1;
+  } catch (error) {
+    console.log("Publications error ===>>>", error);
+  }
+};
 
 window.addEventListener("load", () => {
-  
+  renderPublications();
   renderProjects();
 });
 
